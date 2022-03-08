@@ -36,7 +36,7 @@ for afile in excel_files:
     dict_2 = []  # фамилии
     arr_2 = []  # фамилии
 
-    # вывод содержимого таблицы
+    ## вывод содержимого таблицы
     # for row in sheet.rows:
     #     string = ''
     #     for cell in row:
